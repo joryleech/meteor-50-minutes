@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/app/tasklist.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -49,8 +49,8 @@
       <file leaf-file-name="tasklist.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/tasklist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="325">
+              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -72,10 +72,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1488183281354" expanded="true" signature="59:34318" ph="..." />
-                <marker date="1488183281354" expanded="true" signature="34244:34261" ph="..." />
-                <marker date="1488183281354" expanded="true" signature="34244:34279" ph="..." />
-                <marker date="1488183281354" expanded="true" signature="34244:34292" ph="..." />
+                <marker date="1488183499836" expanded="true" signature="59:34124" ph="..." />
+                <marker date="1488183499836" expanded="true" signature="34050:34067" ph="..." />
+                <marker date="1488183499836" expanded="true" signature="34050:34085" ph="..." />
+                <marker date="1488183499836" expanded="true" signature="34050:34098" ph="..." />
               </folding>
             </state>
           </provider>
@@ -111,8 +111,6 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/app/.meteor/local/build/programs/server/node_modules" />
-    <handled-path value="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules" />
     <handled-path value="$PROJECT_DIR$/app/.meteor/local/dev_bundle/lib/node_modules" />
     <handled-path value="$PROJECT_DIR$/app/node_modules" />
   </component>
@@ -511,12 +509,12 @@
       <option name="presentableId" value="Default" />
       <updated>1488180947072</updated>
       <workItem from="1488180950539" duration="599000" />
-      <workItem from="1488181809554" duration="1472000" />
+      <workItem from="1488181809554" duration="1694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2071000" />
+    <option name="totallyTimeSpent" value="2293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1910" y="0" width="1940" height="2124" extended-state="0" />
@@ -586,10 +584,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488183281354" expanded="true" signature="59:34318" ph="..." />
-            <marker date="1488183281354" expanded="true" signature="34244:34261" ph="..." />
-            <marker date="1488183281354" expanded="true" signature="34244:34279" ph="..." />
-            <marker date="1488183281354" expanded="true" signature="34244:34292" ph="..." />
+            <marker date="1488183499836" expanded="true" signature="59:34124" ph="..." />
+            <marker date="1488183499836" expanded="true" signature="34050:34067" ph="..." />
+            <marker date="1488183499836" expanded="true" signature="34050:34085" ph="..." />
+            <marker date="1488183499836" expanded="true" signature="34050:34098" ph="..." />
           </folding>
         </state>
       </provider>
@@ -599,10 +597,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488183281354" expanded="true" signature="59:34318" ph="..." />
-            <marker date="1488183281354" expanded="true" signature="34244:34261" ph="..." />
-            <marker date="1488183281354" expanded="true" signature="34244:34279" ph="..." />
-            <marker date="1488183281354" expanded="true" signature="34244:34292" ph="..." />
+            <marker date="1488183499836" expanded="true" signature="59:34124" ph="..." />
+            <marker date="1488183499836" expanded="true" signature="34050:34067" ph="..." />
+            <marker date="1488183499836" expanded="true" signature="34050:34085" ph="..." />
+            <marker date="1488183499836" expanded="true" signature="34050:34098" ph="..." />
           </folding>
         </state>
       </provider>
@@ -635,15 +633,15 @@
     <entry file="file://$PROJECT_DIR$/app/tasklist.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tasklist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="325">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding />
         </state>
       </provider>
